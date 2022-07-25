@@ -1,4 +1,4 @@
-# Repositório do Desafio de GitHub
-Desafio de projeto utilizando o Git para GitHub
+# Repositório - Desafio de GitHub
+Repositório criado para o Desafio de projeto
 ## Links úteis
 [Sintaxe básica markdown](https://www.markdownguide.org/)
